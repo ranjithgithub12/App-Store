@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+}
+
+.button {
+  border-style: none;
+  color: #7b8794;
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  margin-right: 5px;
+  cursor: pointer;
+  border-bottom: solid;
+}
+.button-new{
+  color: #2563eb;
+  border-bottom: solid;
+}
